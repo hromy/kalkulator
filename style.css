@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    width: 50%;
+    background-color: #186049;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    width: 100%;
+    margin: 10px;
+}
+
+form, input [type-radio] {
+    text-align: center;
+}
